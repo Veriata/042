@@ -15,7 +15,7 @@
 	<div>
 		<span>Послушник</span></div>
 	<div>
-		<span><img alt="" src="https://www.romcodex.com/icons/skill/skill_146001.png" style="width: 50px; height: 50px;" />Lvl 10 Blessing / Благословение &ndash; увеличивает на 20 INT/STR/DEX</span></div>
+		<span><img alt="" src="https://www.romcodex.com/icons/skill/skill_146001.png" style="width: 15px; height: 15px;" />Lvl 10 Blessing / Благословение &ndash; увеличивает на 20 INT/STR/DEX</span></div>
 	<div>
 		<span><img alt="" src="https://www.romcodex.com/icons/skill/skill_157001.png" style="width: 50px; height: 50px;" />Lvl 10 Increase Agility / Увеличение AGI &ndash; увеличивает на 20 AGI / 30% скорости передвижения</span></div>
 	<div>
