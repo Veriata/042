@@ -1,7 +1,6 @@
 <div>
 	<h3>
-		<strong><img alt="" src="https://www.romcodex.com/icons/item/item_40671.png" style="width: 50px; height: 50px;" />Full Support Priest</strong></h3>
-	<br />
+		<strong>Full Support Priest</strong></h3>
 	<h4>
 		<strong>Статы</strong></h4>
 	<div>
@@ -11,15 +10,14 @@
 	<div>
 		<span>Оставшееся в DEX</span></div>
 	<br />
-	<br />
 	<h4>
 		<span>Скиллы</span></h4>
 	<div>
 		<span>Послушник</span></div>
 	<div>
-		<span>Lvl 10 Blessing / Благословение &ndash; увеличивает на 20 INT/STR/DEX</span></div>
+		<span><img alt="" src="https://www.romcodex.com/icons/skill/skill_146001.png" style="width: 50px; height: 50px;" />Lvl 10 Blessing / Благословение &ndash; увеличивает на 20 INT/STR/DEX</span></div>
 	<div>
-		<span>Lvl 10 Increase Agility / Увеличение AGI &ndash; увеличивает на 20 AGI / 30% скорости передвижения</span></div>
+		<span><img alt="" src="https://www.romcodex.com/icons/skill/skill_157001.png" style="width: 50px; height: 50px;" />Lvl 10 Increase Agility / Увеличение AGI &ndash; увеличивает на 20 AGI / 30% скорости передвижения</span></div>
 	<div>
 		<span>Lvl 10 Heal / Исцеление &ndash; лечит игроков и наносит урон нежити</span></div>
 	<div>
