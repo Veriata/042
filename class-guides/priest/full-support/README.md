@@ -3,7 +3,7 @@
 <br />
 <h4><strong>Статы</strong></h4>
 <div><span>119 INT</span></div>
-<div><span>119 VIT (добавьте сначала достаточное количество DEX fдля инстант каста эпиклезиса без благословения)</span></div>
+<div><span>119 VIT (добавьте сначала достаточное количество DEX для инстант каста эпиклезиса без благословения)</span></div>
 <div><span>Оставшееся в DEX</span></div>
 <br /><br />
 <h4><span>Скиллы</span></h4>
@@ -18,7 +18,7 @@
 <div><span>Lvl 2 Aspersio / Асперзио &ndash; дает святой элемент физ атакерам</span></div>
 <div><span>Lvl 5 Gloria / Глория &ndash; Luck +20 (30 sec)</span></div>
 <div><span>Lvl 5 Clearance / Очищение &ndash; снимает дебаффы в выбранной области (100% шанс на Lvl 5)</span></div>
-<div><span>Lvl 5 Magnificat / Великокот &ndash; 200% SP recovery every 10 sec</span></div>
+<div><span>Lvl 5 Magnificat / Великокот &ndash; 200% SP восстановление каждые 10 sec</span></div>
 <div><span>Lvl 9 Sanctuary &ndash; Ground target heal</span></div>
 <div><span>Lvl 10 Impostio Manus &ndash; Adds 100 DMG/Ignore DEF 120 sec</span></div>
 <br />
