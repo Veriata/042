@@ -151,8 +151,8 @@
 					Вторая рука</td>
 				<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: right;">
 					<p>
-						<span style="font-size: 10pt;"><img alt="" src="https://www.romcodex.com/icons/item/item_42516.png" style="width: 50px; height: 50px;" />&nbsp;Royal Silver Shield<br />
-						<img alt="" src="https://www.romcodex.com/icons/item/item_42524.png" style="width: 50px; height: 50px;" />&nbsp;Static Shield</span></p>
+						<span style="font-size: 10pt;"><img alt="" src="https://www.romcodex.com/icons/item/item_42516.png" style="width: 15px; height: 15px;" />&nbsp;Royal Silver Shield<br />
+						<img alt="" src="https://www.romcodex.com/icons/item/item_42524.png" style="width: 15px; height: 15px;" />&nbsp;Static Shield</span></p>
 				</td>
 				<td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: right;">
 					1</td>
